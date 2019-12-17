@@ -6,7 +6,7 @@ Click [here](https://github.com/Cocos-BCX/cocos_mainnet/blob/master/README_CN.md
 [Build Status](https://travis-ci.com/ypenghui6test/cocos-mainnet/branches):
 
 `master` | `develop` 
- --- | --- 
+ --- | ---
  [![](https://travis-ci.com/ypenghui6test/cocos-mainnet.svg?branch=master)]((https://travis-ci.com/ypenghui6test/cocos-mainnet) | [![](https://travis-ci.com/ypenghui6test/cocos-mainnet.svg?branch=develop)]((https://travis-ci.com/ypenghui6test/cocos-mainnet) 
 
 
